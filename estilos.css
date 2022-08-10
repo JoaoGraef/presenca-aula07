@@ -1,4 +1,11 @@
 body{
-    background-color: black;
-    
+    background-color: black;    
+}
+
+#logo {
+    width:300px
+}
+
+.margem-superior {
+    margin-top: 20px;
 }
